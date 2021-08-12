@@ -90,9 +90,11 @@ Turn off the autopilot and take control. Constantly critique and appraise your w
 What distinguishes Prafmatic Programmers?
 1- They think beyond the immediate problem.
 2- They place the problem in larger context and are aware of the big picture.
-3- They take responsibility for everything they do.
-
-Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
+3- They take responsibility for everything they do (Career advancement, Projects, day-to-day work).
+4- Admit ignorance and errors.
+5- Be proud of your abilities and be honest about shortcomings and mistakes.
+6- You don't have to take on a responsibilty for impossible situation, or high risky ones.
+7- Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
 
 ## 2.-Software Entropy
 One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment—a sense that the powers that be don't care about the building. So another window gets broken. People start littering. Graffiti appears. Serious structural damage begins. In a relatively short space of time, the building becomes damaged beyond the owner's desire to fix it, and the sense of abandonment becomes reality.
