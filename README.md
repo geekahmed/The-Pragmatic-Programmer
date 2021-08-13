@@ -87,37 +87,58 @@ Turn off the autopilot and take control. Constantly critique and appraise your w
 
 ## 1.-The Cat Ate My Source Code
 **Tip 3: Provide Options, Don't Make Lame Excuses**
+
 What distinguishes Prafmatic Programmers?
-1- They think beyond the immediate problem.
-2- They place the problem in larger context and are aware of the big picture.
-3- They take responsibility for everything they do (Career advancement, Projects, day-to-day work).
-4- Admit ignorance and errors.
-5- Be proud of your abilities and be honest about shortcomings and mistakes.
-6- You don't have to take on a responsibilty for impossible situation, or high risky ones.
-7- Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
+
+ 1. They think beyond the immediate problem.
+ 2. They place the problem in larger context and are aware of the big
+    picture.
+ 3. They take responsibility for everything they do (Career advancement,
+    Projects, day-to-day work).
+ 4. Admit ignorance and errors.
+ 5. Be proud of your abilities and be honest about shortcomings and
+    mistakes.
+ 6. You don't have to take on a responsibilty for impossible situation,
+    or high risky ones.
+ 7. Instead of excuses, provide options. Don't say it can't be done;
+    explain what can be done to salvage the situation.
 
 ## 2.-Software Entropy
 **Tip 4: Don't Live with Broken Windows**
-1- Entropy: refers to the amount of disorder in a system. It is called "Software Rot" in the software industry.
-2- Software Rot factors: psychology or culture at work on a project.
-3- One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment. So another window gets broken. People start littering. Graffiti appears. 
-4- Don't mess up the carpet when fixing the broken window.
-5- Even if there is a fire raging (deadline, release date, client demo, etc). You sould not be the first one to make a mess and keep the code cleanly written and well-designed.
 
+ 1. Entropy: refers to the amount of disorder in a system. It is called
+    "Software Rot" in the software industry.
+ 2. Software Rot factors: psychology or culture at work on a project.
+ 3. One broken window, left unrepaired for any substantial length of
+    time, instills in the inhabitants of the building a sense of
+    abandonment. So another window gets broken. People start littering.
+    Graffiti appears.
+ 4. Don't mess up the carpet when fixing the broken window.
+ 5. Even if there is a fire raging (deadline, release date, client demo,
+    etc). You sould not be the first one to make a mess and keep the
+    code cleanly written and well-designed.
 
 ## 3.-Stone Soup and Boiled Frogs
 **Tip 5: Be a Catalyst for Change**
-1- Work out what you can reasonably ask for. Develop it well. 
-2- Once you've got it, show people, and let them marvel. Then say "of course, it would be better if we added…."
-3- People find it easier to join an ongoing success.
+
+ 1. Work out what you can reasonably ask for. Develop it well.
+ 2. Once you've got it, show people, and let them marvel. Then say "of
+    course, it would be better if we added…."
+ 3. People find it easier to join an ongoing success.
 
 **Tip 6: Remember the Big Picture**
-1- Most software disasters start out too small to notice, and most project overruns happen a day at a time.
-2- If you take a frog and drop it into boiling water, it will jump straight back out again. However, if you place the frog in a pan of cold water, then gradually heat it, the frog won't notice the slow increase in temperature and will stay put until cooked.
-3- Don't be like the frog. Keep an eye on the big picture.
-4- Review what is happening around you, not just your personal work.
 
+ 4. Most software disasters start out too small to notice, and most
+    project overruns happen a day at a time.
 
+ 5. If you take a frog and drop it into boiling water, it will jump
+    straight back out again. However, if you place the frog in a pan of
+    cold water, then gradually heat it, the frog won't notice the slow
+    increase in temperature and will stay put until cooked.
+
+ 6. Don't be like the frog. Keep an eye on the big picture.
+
+ 7. Review what is happening around you, not just your personal work.
 
 ## 4.-Good-Enough Software
 The scope and quality of the system you produce should be specified as part of that system's requirements.
