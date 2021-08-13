@@ -97,11 +97,13 @@ What distinguishes Prafmatic Programmers?
 7- Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
 
 ## 2.-Software Entropy
-One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment—a sense that the powers that be don't care about the building. So another window gets broken. People start littering. Graffiti appears. Serious structural damage begins. In a relatively short space of time, the building becomes damaged beyond the owner's desire to fix it, and the sense of abandonment becomes reality.
-
 **Tip 4: Don't Live with Broken Windows**
+1- Entropy: refers to the amount of disorder in a system. It is called "Software Rot" in the software industry.
+2- Software Rot factors: psychology or culture at work on a project.
+3- One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment. So another window gets broken. People start littering. Graffiti appears. 
+4- Don't mess up the carpet when fixing the broken window.
+5- Even if there is a fire raging (deadline, release date, client demo, etc). You sould not be the first one to make a mess and keep the code cleanly written and well-designed.
 
-Don't mess up the carpet when fixing the broken window.
 
 ## 3.-Stone Soup and Boiled Frogs
 It's time to bring out the stones. Work out what you can reasonably ask for. Develop it well. Once you've got it, show people, and let them marvel. Then say "of course, it would be better if we added…."
