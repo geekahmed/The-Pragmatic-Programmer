@@ -11,7 +11,7 @@ There is a [Quick Reference](#quick-reference) at the end.
 	- [1.-The Cat Ate My Source Code](#1-the-cat-ate-my-source-code)
 	- [2.-Software Entropy](#2-software-entropy)
 	- [3.-Stone Soup and Boiled Frogs](#3-stone-soup-and-boiled-frogs)
-	- [4.-Good-Enough Software](#4-good--enough-software)
+	- [4.-Good-Enough Software](#4-good-enough-software)
 	- [5.-Your Knowledge Portfolio](#5-your-knowledge-portfolio)
 	- [6.-Communicate](#6-communicate)
 - [Chapter 2. A Pragmatic Approach](#chapter-2-a-pragmatic-approach)
