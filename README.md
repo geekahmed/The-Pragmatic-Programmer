@@ -11,7 +11,7 @@ There is a [Quick Reference](#quick-reference) at the end.
 	- [1.-The Cat Ate My Source Code](#1-the-cat-ate-my-source-code)
 	- [2.-Software Entropy](#2-software-entropy)
 	- [3.-Stone Soup and Boiled Frogs](#3-stone-soup-and-boiled-frogs)
-	- [4.-Good enough soup](#4-good-enough-soup)
+	- [4.-Good-Enough Software](#4-good--enough-software)
 	- [5.-Your Knowledge Portfolio](#5-your-knowledge-portfolio)
 	- [6.-Communicate](#6-communicate)
 - [Chapter 2. A Pragmatic Approach](#chapter-2-a-pragmatic-approach)
@@ -106,21 +106,20 @@ What distinguishes Prafmatic Programmers?
 
 
 ## 3.-Stone Soup and Boiled Frogs
-It's time to bring out the stones. Work out what you can reasonably ask for. Develop it well. Once you've got it, show people, and let them marvel. Then say "of course, it would be better if we added…."
-
-_People find it easier to join an ongoing success._
-
 **Tip 5: Be a Catalyst for Change**
-
-Most software disasters start out too small to notice, and most project overruns happen a day at a time.
-
-If you take a frog and drop it into boiling water, it will jump straight back out again. However, if you place the frog in a pan of cold water, then gradually heat it, the frog won't notice the slow increase in temperature and will stay put until cooked.
-
-Don't be like the frog. Keep an eye on the big picture.
+1- Work out what you can reasonably ask for. Develop it well. 
+2- Once you've got it, show people, and let them marvel. Then say "of course, it would be better if we added…."
+3- People find it easier to join an ongoing success.
 
 **Tip 6: Remember the Big Picture**
+1- Most software disasters start out too small to notice, and most project overruns happen a day at a time.
+2- If you take a frog and drop it into boiling water, it will jump straight back out again. However, if you place the frog in a pan of cold water, then gradually heat it, the frog won't notice the slow increase in temperature and will stay put until cooked.
+3- Don't be like the frog. Keep an eye on the big picture.
+4- Review what is happening around you, not just your personal work.
 
-## 4.-Good enough soup
+
+
+## 4.-Good-Enough Software
 The scope and quality of the system you produce should be specified as part of that system's requirements.
 
 **Tip 7: Make Quality a Requirements Issue**
