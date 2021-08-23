@@ -1,3 +1,4 @@
+
   
 This is my summary of the The Pragmatic Programmer, by Andrew Hunt and David Thomas. I use it while learning and as quick reference. It is not intended to be an standalone substitution of the book so if you really want to learn the concepts here presented, buy and read the book and use this repository as a reference and guide.
 
@@ -141,11 +142,15 @@ What distinguishes Prafmatic Programmers?
  7. Review what is happening around you, not just your personal work.
 
 ## 4.-Good-Enough Software
-The scope and quality of the system you produce should be specified as part of that system's requirements.
-
 **Tip 7: Make Quality a Requirements Issue**
-
-Great software today is often preferable to perfect software tomorrow. **Know When to Stop**
+ 1. The scope and quality of the system you produce should be specified
+    as part of that system's requirements.
+ 2. Don't spoil a perfectly good program by overembellishment and
+    overrefinement. Move on, and let your code stand in its own right
+    for a while.
+ 3. Great software today is often preferable to perfect software
+    tomorrow.
+4. Know When to Stop
 
 ## 5.-Your Knowledge Portfolio
 _An investment in knowledge always pays the best interest._
