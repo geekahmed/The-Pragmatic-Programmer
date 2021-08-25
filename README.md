@@ -106,7 +106,6 @@ What distinguishes Prafmatic Programmers?
 
 ## 2.-Software Entropy
 **Tip 4: Don't Live with Broken Windows**
-
  1. Entropy: refers to the amount of disorder in a system. It is called
     "Software Rot" in the software industry.
  2. Software Rot factors: psychology or culture at work on a project.
@@ -121,24 +120,18 @@ What distinguishes Prafmatic Programmers?
 
 ## 3.-Stone Soup and Boiled Frogs
 **Tip 5: Be a Catalyst for Change**
-
  1. Work out what you can reasonably ask for. Develop it well.
  2. Once you've got it, show people, and let them marvel. Then say "of
     course, it would be better if we added…."
  3. People find it easier to join an ongoing success.
-
 **Tip 6: Remember the Big Picture**
-
  4. Most software disasters start out too small to notice, and most
     project overruns happen a day at a time.
-
  5. If you take a frog and drop it into boiling water, it will jump
     straight back out again. However, if you place the frog in a pan of
     cold water, then gradually heat it, the frog won't notice the slow
     increase in temperature and will stay put until cooked.
-
  6. Don't be like the frog. Keep an eye on the big picture.
-
  7. Review what is happening around you, not just your personal work.
 
 ## 4.-Good-Enough Software
