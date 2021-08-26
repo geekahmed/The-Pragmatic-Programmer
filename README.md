@@ -154,7 +154,6 @@ _An investment in knowledge always pays the best interest._
 * Investors try to buy low and sell high for maximum return.
 * Portfolios should be reviewed and rebalanced periodically
 
-
 ### Building Your Portfolio
 * Invest regularly
 * Diversify
@@ -178,24 +177,27 @@ You need to ensure that the knowledge in your portfolio is accurate and unswayed
 
 **Tip 9: Critically Analyze What You Read and Hear**
 
-
 ## 6.-Communicate
-* Know what you want to say. Plan what you want to say. Write an outline.
-* Know your audience. (WISDOM acrostic)
-  * What they **Want**?
-  * What is their **Interest**?
-  * How **Sophisticated** are they?
-  * How much **Detail** they want?
-  * Who do you want to **Own** the information?
-  * How can you **Motivate** them to listen?
-* Choose your moment:  Understanding when your audience needs to hear your information.
-* Choose a style:  Just the facts, large bound reports, a simple memo.
-* Make it look good: Add good-looking vehicle to your important ideas and engage your audience.
-* Involve your audience:  Get their feedback, and pick their brains.
-* Be a listener: Encourage people to talk by asking questions.
-* Get back to people: Keep people informed afterwards.
-
 **Tip 10: It's Both What You Say and the Way You Say It**
+ - Know what you want to say. Jot down the ideas you want to
+   communication, and plan a couple of strategies for getting them
+   across.
+ - Know your audience. (WISDOM acrostic)
+	 - What they **Want**?
+	 - What is their **Interest**?
+	 - How **Sophisticated** are they?
+	 - How much **Detail** they want?
+	 - Who do you want to **Own** the information?
+	 - How can you **Motivate** them to listen?
+ - Make the appropriate pitch to each group of your audience in order to get them all acited about your project.
+ - Choose your moment:  Understanding when your audience needs to hear your information.
+	 - Ask a simple question: "Is this a good time to talk about ...?"
+ - Choose a style:  Just the facts, large bound reports, a simple memo.
+ - Make it look good: Add good-looking vehicle to your important ideas and engage your audience.
+ - Involve your audience:  Get their feedback, and pick their brains.
+ - Be a listener: Encourage people to talk by asking questions.
+ - Get back to people: Keep people informed afterwards.
+ - Unless you work in a vacuum, you need to be able to communication. The more effective that communication, the more influential you become.
 
 # Chapter 2. A Pragmatic Approach
 
